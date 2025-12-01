@@ -1,0 +1,42 @@
+{
+    "internships": [
+        {
+            "id": 1,
+            "title": "Full Stack Developer Intern",
+            "company": "CDL Tech",
+            "location": "Remote",
+            "duration": "3 months",
+            "stipend": "5000 NPR",
+            "description": "Hands-on experience with real projects.",
+            "requirements": [
+                "JavaScript basics",
+                "Node.js knowledge"
+            ]
+        },
+        {
+            "id": 2,
+            "title": "Frontend Intern",
+            "company": "NextVision",
+            "location": "Kathmandu",
+            "duration": "2 months",
+            "stipend": "3000 NPR",
+            "description": "Work with React, Next.js UI components.",
+            "requirements": [
+                "HTML CSS",
+                "React basics"
+            ]
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "Name1",
+            "email": "name1@example.com"
+        },
+        {
+            "id": 2,
+            "name": "Name2",
+            "email": "name2@example.com"
+        }
+    ]
+}
