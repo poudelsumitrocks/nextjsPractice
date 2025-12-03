@@ -36,7 +36,7 @@ export default function RootLayout({
           <a href="/" className="hover:text-blue-800">Home</a>
           <a href="/hello" className="hover:text-blue-800">About</a>
         </nav> */}
-        <main className="p-4">{children}</main>
+        <main >{children}</main>
          {/* <footer className="bg-gray-300 text-center p-4">
           My App Footer © 2025
         </footer> */}
